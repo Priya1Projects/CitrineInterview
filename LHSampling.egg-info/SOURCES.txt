@@ -9,4 +9,3 @@ LHSampling.egg-info/dependency_links.txt
 LHSampling.egg-info/top_level.txt
 sampler/__init__.py
 tests/__init__.py
-tests/test_sampling.py
